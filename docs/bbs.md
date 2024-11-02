@@ -1,4 +1,4 @@
 ---
 layout: redirect
-tourl: https://bbs.salx.cn/
+tourl: https://bbs.salx.xyz/
 ---
